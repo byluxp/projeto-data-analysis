@@ -13,3 +13,17 @@ crie uma pasta com as imagens e graficos gerados pelo matplotlib e o seaborn. ap
 
 
 3: o readme não foi criado. reescreva o atual conforme as orientações passadas para um readme conciso, bem estruturado e profissional
+
+### Prompts Agente de Linkedin
+
+1: atue como um especialista e mentor de linkedin. sou uma estudante de tecnologia, me especializando na área de dados e gostaria de movimentar meu linkedin para atrair recrutadores e realizar networking. me auxilie com:
+
+- 1. ideias de post
+
+- 2. o que estudar pra aprofundar meu conhecimento
+
+- 3. como formatar e adequar meu linkedin (meu titulo, sobre, como reaproveitar minha experiência atual para a área que eu quero)
+
+- 4. consistencia de post     
+
+2: crie pra mim uma postagem com base nesse projeto que eu realizei, faça um texto simples mas que mostre domínio sobre o conteudo. evite jargões de ia tipo "não é sobre isso, é sobre aquilo" ou "não é isso, é tal, e tal, e tal" ou o uso de travessões.
